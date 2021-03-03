@@ -1,0 +1,7 @@
+*.swp
+*.swo
+data/results/
+data/interim/
+*__pycache__/
+.snakemake/
+pbs_out/
