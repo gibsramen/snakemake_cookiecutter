@@ -1,0 +1,5 @@
+__default__:
+  name: default
+  mem: 8gb
+  nodes: 1:ppn=8
+  out: pbs_out
