@@ -2,4 +2,5 @@ __default__:
   name: default
   mem: 8gb
   nodes: 1:ppn=8
+  walltime: 12:00:00
   out: pbs_out
